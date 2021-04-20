@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  practica-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-20T08:32:11.2146604+02:00"
+    description: A Helm chart for Kubernetes
+    digest: f46648393f43d9abadbce20fd8580530ff4cf197f005857152b4b721f5db7bc4
+    name: practica-helm
+    type: application
+    urls:
+    - practica-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-20T08:32:11.2116628+02:00"
